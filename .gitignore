@@ -110,7 +110,7 @@ Desktop.ini
 ######################
 /bin/
 /deploy/
-/target/
+target/
 
 ######################
 # Logs
